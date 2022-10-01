@@ -1,0 +1,3 @@
+Seats are saved as
+R=Row, C=Column
+R,C,SeatType,SeatClass,GroupName,Passenger Name
